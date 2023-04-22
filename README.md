@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**vivek0855/vivek0855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi I am Vivek 👋
 
 - 🔭 I’m currently working on fullsatck developr @Tata Consultancy Services.
 - 🌱 I’m currently learning ...
@@ -13,4 +8,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<details open>
+<summary>🤝 <b>Connect with me</b></summary>
+
+<p align = "center">
+
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://saumitra619.github.io/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saumitra-tomar/)
+
+</p>
+
+</details>
 
